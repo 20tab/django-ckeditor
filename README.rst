@@ -1,3 +1,10 @@
+NO LONGER MAINTAINED
+===================
+This fork is no longer maintained, if you want to continue to use this package look at this: https://github.com/shaunsephton/django-ckeditor
+
+Or switch at this: https://github.com/20tab/twentytab-cked/
+
+
 Django CKEditor
 ================
 **Django admin CKEditor integration.**
